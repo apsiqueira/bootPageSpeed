@@ -1,0 +1,23 @@
+{
+  "name": "bootinsta",
+  "version": "1.0.0",
+  "description": "boot para pesquisas automaticas no instagram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/apsiqueira/bootInsta.git"
+  },
+  "author": "Pablo Siqueira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apsiqueira/bootInsta/issues"
+  },
+  "homepage": "https://github.com/apsiqueira/bootInsta#readme",
+  "dependencies": {
+    "puppeteer": "^19.7.4",
+    "xlsx": "^0.18.5"
+  }
+}
